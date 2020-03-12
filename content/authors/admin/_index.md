@@ -58,4 +58,4 @@ user_groups:
 - Visitors
 ---
 
-Kemiao Huang is a computer science student at the SUSTech Intelligent Sensing and Unmanned System Lab. His primary interest is in the area of intelligent system.
+I am a computer science student at the Intelligent Sensing and Unmanned System Lab in SUSTech. My primary interest is in the area of intelligent system. I love programming and was exposed to many course projects and research activities.

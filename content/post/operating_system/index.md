@@ -3,8 +3,8 @@
 
 title: "Operating System"
 subtitle: ""
-summary: ""
-authors: []
+summary: "Concept Demonstration for Operating System"
+authors: [Kemiao Huang]
 tags: []
 categories: []
 date: 2020-03-10T17:37:11+08:00
