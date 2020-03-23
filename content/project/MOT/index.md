@@ -29,7 +29,7 @@ image:
 
 url_code: "https://github.com/Kemo-Huang/EMOT"
 url_pdf: "files/MOT.pdf"
-url_slides: ""
+url_slides: "files/MOT_presentation.pdf"
 url_video: ""
 
 # Slides (optional).
